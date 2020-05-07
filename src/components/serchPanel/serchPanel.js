@@ -1,15 +1,26 @@
-import React from "react";
+import React, {Component} from "react";
 import './serch-panel.css';
 
 
-const SearchPanel = () => {
-    return (
-        <div>
-            <input placeholder='search'/>
+export default class SearchPanel extends Component {
 
-        </div>
 
-    )
-};
+    state = {
+        term:''
+    }
+    onSerChange = (event) => {
+    const term = event.target.value
+        this.setState({term})
+        this.props.onSerChange(term)
+    }
 
-export default SearchPanel;
+    render() {
+        return (
+            <form className='search-input d-flax'>
+                <input placeholder='search' type='text' className='form-control'
+                       onChange={this.onSerChange}
+                value={this.state.term}/>
+            </form>
+        )
+    }
+}

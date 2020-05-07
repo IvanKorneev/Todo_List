@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61589c3-d26a-457c-b2c2-a1debce19d58" name="Default Changelist" comment="" />
+    <list default="true" id="c61589c3-d26a-457c-b2c2-a1debce19d58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header/AppHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/AppHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/serchPanel/serch-panel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/serchPanel/serch-panel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/serchPanel/serchPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/serchPanel/serchPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,16 +28,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1accm6RuhAR2XlUmc1CweXaOXqA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ __JS HOM_WORK__/Практика на изменение элементов" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -61,18 +77,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -84,42 +88,55 @@
       <option name="presentableId" value="Default" />
       <updated>1587038478123</updated>
       <workItem from="1587038479863" duration="19402000" />
-      <workItem from="1587281725991" duration="36249000" />
+      <workItem from="1587281725991" duration="36465000" />
+      <workItem from="1587470713152" duration="11476000" />
+      <workItem from="1588147106705" duration="23000" />
+      <workItem from="1588147664743" duration="123000" />
+      <workItem from="1588748215555" duration="6503000" />
+      <workItem from="1588836514008" duration="9886000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587217792148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587217792148" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1587280516586">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1587628103794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587280516586" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1587367711115">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587628103794" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1588837084728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587367711115" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1587367711115">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588837084728" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1588837084727">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587367711115" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1587367711115">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588837084727" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1588837084727">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587367711115" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1587367711115">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588837084727" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1588837084727">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587367711115" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1587219124929">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588837084727" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1587470404182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587219124929" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587470404182" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587470756668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587470756668" />
+    <state x="582" y="87" width="579" height="535" key="find.popup" timestamp="1588838726116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="87" width="579" height="535" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1588838726116" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1587370147548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

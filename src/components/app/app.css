@@ -3,5 +3,8 @@
     max-width: 400px;
 }
 .top-panel{
-    margin: 1px;
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
 }

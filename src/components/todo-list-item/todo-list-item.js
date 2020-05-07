@@ -2,44 +2,8 @@ import React from "react";
 import './todo-list-item.css';
 
 export default class TodoListItem extends React.Component {
-
-    // constructor() {
-    //     super();
-    //     this.state = {
-    //         done: false
-    //     }
-    // }
-    // constructor() {
-    //     super();
-    //     this.onLabelClick = () => {
-    //         console.log(`Done:${this.props.label}`)
-    //     }
-    // }
-
-    // state = {
-    //     done: false,
-    //     important: false
-    // };
-    // onLabelClick = () => {
-    //     this.setState(({done})=>{
-    //         return{
-    //             done:!done
-    //         }
-    //     })
-    // };
-    // onMarkImportant = () => {
-    //     this.setState(({important})=>{
-    //         return{
-    //             important: !important
-    //         }
-    //     })
-    // };
-
-
     render() {
-        const {label, test,onDeleted,onToggleDone,onToggleImportant,done,important} = this.props;
-
-        // const {done, important} = this.state;
+        const {label,onDeleted,onToggleDone,onToggleImportant,done,important} = this.props;
 
         let classNames = 'todo-list-item';
         if (done) {
@@ -56,7 +20,7 @@ export default class TodoListItem extends React.Component {
                     className='todo-list-item-label'
                     onClick={onToggleDone}
                 >
-                    {label}{test}
+                    {label}
                 </span>
                     <span className='buttons-container'>
                         <button type='button' className='btn btn-outline-success btn-sm'>
